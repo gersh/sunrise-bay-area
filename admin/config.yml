@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sunrise-bay-area/sunrise-bay-area
+  repo: gersh/sunrise-bay-area
   branch: master
   base_url: https://us-central1-sunrise-bay-area-website.cloudfunctions.net
   auth_endpoint: /oauth/auth
