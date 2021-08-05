@@ -3,21 +3,13 @@ title: Policy Platform
 url: policy-platform
 menu: []
 ---
-
-
 # Introduction
 
 Sunrise Bay Area is working to achieve a Green New Deal in accordance with the goals shown in the next section. This will require broad social transformation at the international, federal, state, and local levels. This report covers policies which Sunrise Bay Area is pushing for California to make on the state, regional, and local levels to achieve these goals. 
 
-
-
 Sunrise principle 10 states “We stand with other movements for change,” and we recognize we won’t do this alone. Solidarity partners are listed in the individual sectors. 
 
-
-
 This report breaks down the policies by sector of the state economy, and looks at how to transform these sectors to meet the goals of the Green New Deal, addressing racial inequities, inequalities, and improving the health of communities. The sectors covered are the most polluting sectors of the economy, most responsible for health problems and climate change. We recognize the interconnected nature of our society, and will partner with other organizations pursuing initiatives which align with our principles in other sectors of our society. 
-
-
 
 ## Green New Deal Goals
 
@@ -27,8 +19,6 @@ This report breaks down the policies by sector of the state economy, and looks a
 4. to secure clean air and water, climate and community resiliency, healthy food, access to nature, and a sustainable environment for all people of the United States for generations to come; and
 5. to promote justice and equity by stopping current, preventing future, and repairing historic oppression of indigenous peoples, communities of color, migrant communities, de-industrialized communities, depopulated rural communities, the poor, low-income workers, women, the elderly, the unhoused, people with disabilities, and youth.
 
-
-
 # Industrial
 
 Written by Gershon Bialer (gershon.bialer@gmail.com)
@@ -36,8 +26,6 @@ Written by Gershon Bialer (gershon.bialer@gmail.com)
 ## Introduction
 
 There are a number of manufacturing processes that create harmful carbon emissions. While it may seem to some like a lot of this is covered in California’s current cap-and-trade policies, we really need mandates, and specific policies to ensure we are meeting the goals of the Green New Deal framework. 
-
-
 
 Industrial emissions can come from many sectors throughout the economy. While most things can be electrified, other manufacturing processes may be harder to adapt into the new economy. Reducing the use of materials and reducing waste can also help to mitigate the impact in these areas. 
 
@@ -130,18 +118,13 @@ Industrial emissions can come from many sectors throughout the economy. While mo
 * <https://fixitclinic.blogspot.com/>
 * <https://www.crra.com/>
 
-
-
 ## Legislation/Policy
 
 * Low carbon concrete building standards (see <https://www.marincounty.org/depts/cd/divisions/sustainability/low-carbon-concrete-project>)
-*
 * AB-1080 + SB-54 to reduce plastic waste (see <http://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200AB1080>)
 * Right to repair legislation that mandates all products sold with warranties include information about repair (see <http://www.leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=201920200AB1163>)
 * AB-310 Public Banking Bill
 * SB-260 Corporate Climate Accountability Act
-
-
 
 # Agriculture
 
@@ -151,15 +134,9 @@ Written by Naomi Flagg (naoflagg@gmail.com) and Mary Chambers (mary.ac04@gmail.c
 
 The IPCC’s 2019 Special Report on Climate Change and Land indicated that to meet global climate goals, agriculture has to move away from industrialized production dependent on synthetic fertilizers, pesticides, and fossil fuels, and toward sustainable and regenerative land management practices.
 
-
-
 In 2017, the agriculture sector was responsible for 8% of California’s greenhouse gas emissions. Emissions from agriculture consist primarily of nitrous oxide and methane. While 8% is low compared to agriculture’s relative contribution to GHGs in other places, it is worth noting that most of the carbon-intensive agricultural products consumed in California (like meat) are imported. Of the 8% of emissions from agriculture, around 70% comes from livestock production, with dairy facilities being the main contributor. Crop production accounts for approximately 20% of agricultural emissions. Emissions from crop production have actually decreased over the last 20 years, in part due to shifts from flood irrigation to drip and sprinkler irrigation. Conversion of farm land to urban land conversion is also a notable source of carbon emissions. Urban land emits more carbon per acre than agricultural land, and California is losing farmland to development. 
 
-
-
 It is actually possible for California’s agriculture sector to become carbon negative, because properly managed agricultural soils can sequester CO2 from the atmosphere. However, this will require fundamental changes to agricultural policies and practices. California has taken steps in the right direction, with programs like the State Water Efficiency Enhancement Program (SWEEP), the Healthy Soils Program (HSP), the Sustainable Agricultural Lands Conservation Program (SALCP), the Alternative Manure Management Program (AMMP), and the Climate Smart Technical Assistance (TA) Program. Unfortunately, these programs do not have adequate funding to meet demand from farmers eager to enroll. 
-
-
 
 ## Principles to Apply for Agriculture Policy
 
@@ -178,8 +155,6 @@ Do these policies:
 ## High-Level Goals
 
 ### State level goals
-
-
 
 1. Make California agriculture beneficial for our climate and environment
 
@@ -213,8 +188,6 @@ Do these policies:
 * * Invest in researching climate-smart agricultural practices, including agroecology, regenerative farming, and organic farming
   * Build flexibility into policies so that they can be updated when new research becomes available, for example clear pathways for new practices to be included in incentive programs or disproven practices to be phased out
 
-
-
 ##### 2. Protect people
 
 #### Sub-goals
@@ -226,14 +199,10 @@ Do these policies:
 * Require better protection for farmworkers from harmful pesticides
 * Require a living wage for farmworkers
 
-
-
 #### Strategies
 
 * Support unionization for farmworkers
 * Support changes in immigration policy that undermines farmworkers’ ability to advocate for their needs
-
-
 
 3. Make California Agriculture more just and equitable
 
@@ -249,8 +218,6 @@ Do these policies:
 * * Support co-management or land restitution initiatives to return ancestral lands to indigenous peoples to restore native habitats and grow native foods
   * Fund programs to research and protect native seeds
 
- 
-
 4. Encourage sustainable consumption
 
 #### Strategies
@@ -260,11 +227,7 @@ Do these policies:
   * Require public institutions to procure sustainably-produced agriculture products
 * Reduce food waste at all levels of the supply chain
 
-
-
 ### Bay Area 
-
-
 
 1. Make Bay Area agriculture beneficial for our climate and environment
 
@@ -300,8 +263,6 @@ Do these policies:
 * Maintain and expand access to fresh, healthy, local foods within our region. 
 * * Expand opportunities for small farmers and ranchers to reach local markets more often and in broader geographical areas
   * Preserve and expand farmers’ markets
-
-
 
 ## Organizations
 
@@ -345,8 +306,6 @@ Platform: 
   * Potential contact: Pelayo Alvarez (Mary has talked with him once)
 * ##### Marin Carbon Project <https://www.marincarbonproject.org/> 
 * * Connected with CCI
-
-
 
 ## Legislation/Policy
 
@@ -409,8 +368,6 @@ By investing in a strong, robust, and equitable transportation network that sust
 * Clean Cars 4 All Program
 * Dream Corps
 
-
-
 ## Legislation/Policy
 
 * We do NOT support Faster Bay Area, or any ballot measures proposed by that Coalition
@@ -421,8 +378,6 @@ By investing in a strong, robust, and equitable transportation network that sust
 * Potential endorsements of AC Transit Board of Directors
 * Support for the Voices for Public Transportation
 * AB 5 
-
-
 
 # Oil and Gas Sector Phase Out
 
@@ -435,8 +390,6 @@ This is a draft outline for Sunrise Bay Area’s positions related to California
 ## Background
 
 California is the seventh largest oil producer in the United States--162 million barrels of crude produced in 2018. The political power of the oil and gas industry in Sacramento is infamous--through the Western States Petroleum Association (WSPA), the California Independent Petroleum Association (CIPA), individual major oil companies such as Chevron and California Resources Corporation, and a strong partnership with the powerful Building Trades labor unions, the industry wields significant legislative influence. WSPA spent $8.8 million on lobbying in 2019--more than any other interest group. 
-
-
 
 ## High-Level Goals
 
@@ -454,8 +407,6 @@ Last Chance Alliance:
   * Other possible measures include, but are not limited to: income guarantees, right to organize, pension and benefit supports, wage guarantee, retraining, early retirement assistance, and investing in local communities where industries shift.
 * Implement a “severance” tax or per-well or per-barrel fee on oil production, using the revenue to help with programs that reduce demand for oil (CA is the only major oil-producer not to have such an oil fee).
 
-
-
 ## Organizations
 
 * Last Chance Alliance
@@ -465,8 +416,6 @@ Last Chance Alliance:
 ## Legislation/Policy
 
 * AB-345
-
-
 
 # Residential and Commercial
 
@@ -481,8 +430,6 @@ With a California Green New Deal, we should demand zero emissions codes for new 
 To ensure a just transition, we must demand that the jobs created in electrification have high wages with strong benefits, and that the state provide adequate training for workers to switch industries. In addition, equity in building electrification must be guaranteed through affordable, accessible programs that address the needs of low-income tenants. All tenants must be legally protected from rent increases that result from building retrofits. 
 
 Affordable housing is a key aspect of a Green New Deal in California that will help ensure economic security for Californians struggling with the ongoing housing crisis. We should demand that California implement the recommendations of the [Homes For All](https://www.dataforprogress.org/homes-for-all) policy agenda developed by Data for Progress. These goals include ending racist exclusionary zoning, building public and social housing, providing immediate relief to renters, and making homes for people, not capital. 
-
-
 
 ## High-Level Goals
 
@@ -511,8 +458,6 @@ Affordable housing is a key aspect of a Green New Deal in California that will h
     3. Defund the police to fund these programs
     4. Ensure that Land Use and Zoning regulations are flexible enough to meet the needs of the communities, while also concretely protecting the interests of these communities. 
     5. Accelerate reductions of air and climate pollution to meet and exceed national ambient air quality standards via the provision of tiered incentives for residential and commercial developments that incorporate design features and operational procedures which work toward the achievement of carbon negativity
-
-
 
 ## Strategies
 
@@ -584,8 +529,6 @@ Affordable housing is a key aspect of a Green New Deal in California that will h
 *  Greenlining Institute
 * * Framework for Equitable Building Electrification: <https://greenlining.org/publications/reports/2019/equitable-building-electrification-a-framework-for-powering-resilient-communities/> 
 
-
-
 ## Legislation/Policy
 
 * Building Decarbonization Roadmap [Roadmap to Decarbonize California’s Buildings](http://www.buildingdecarb.org/resources/a-roadmap-to-decarbonize-californias-buildings)
@@ -593,8 +536,6 @@ Affordable housing is a key aspect of a Green New Deal in California that will h
 * <https://www.sfclimateemergency.org/> 
 * <https://equitableclimateaction.org/buildings-energy-efficiency/>  
 * Framework for Equitable Building Electrification: <https://greenlining.org/publications/reports/2019/equitable-building-electrification-a-framework-for-powering-resilient-communities/> 
-
-
 
 # Electricity
 
@@ -604,11 +545,7 @@ Written by David Berney Needleman (davidbn1@gmail.com)
 
 Electricity accounts for about 15% of CA’s carbon emissions. CA’s transmission grid has also been responsible for several major wildfires in recent years, and this fire risk has led to Public Safety Power Shutoffs. This increases emissions, threatens lives and livelihoods, and is unavoidable with our current grid infrastructure.
 
-
-
 A lot of policy work in this sector seems to be promoting specific projects at the local level. We probably have the ability to plug into these efforts through coalition partners like the Greenlining Institute, APEN, and TURN.
-
-
 
 In addition to these organizations and those listed below, national non-profits like NRDC, Sierra Club, EDF, EarthJustice, and 350.org have staff that develop policy positions at the state and federal level at least annually.
 
@@ -624,16 +561,12 @@ Efforts at curbing emissions in CA and ensuring the benefits of renewable energy
    * Require material assistance from electric and gas utilities to help medical baseline customers stay safely sheltered in place during power outages, e.g., clean backup generation/storage to power needed medical devices.
 5. Invest in Community Choice Energy and other municipal and publicly controlled utilities to provide 100% clean energy, with preference for local and on-site generation.
 
-
-
 There are groups working on: 
 
 * Accelerating CA’s transition to 100% renewables through an RPS and ensuring that we can meet the RPS standards set 
 * Resiliency, including microgrids, other distributed renewables, battery storage, hardening, and non-wires alternatives to transmission infrastructure. 
 * Utility structure and regulation (particularly PG&E’s bankruptcy and the conditions put on it by [SB-350](http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB350)), and more access for low-income communities and communities of color to the benefits of distributed renewable energy resources. 
 * Just transition for fossil fuel workers and frontline communities.
-
-
 
 ## Organizations
 
