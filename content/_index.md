@@ -5,14 +5,6 @@ bannerWelcome: Join the movement for a livable future
 joinUrl: https://srba.fyi/join
 joinText: Join Sunrise Bay Area
 ---
-<div class="col col-12">
-  <h1 style="color: #33342e" >Featured Campaigns</h1>
-</div> 
-
-{{< text-block title="Wildfire Mutual Aid" text="The goal of this campaign is to organize mutual aid and other forms of lasting support for communities most impacted by the fires, smoke, and extreme heat. We can support each other through the fire/heat season and reduce the harmful health impacts with effective mutual aid." button-text-1="Learn More" button-url-1="/wildfire" button-text-2="" button-url-2="" >}}
-
-{{< text-block title="Energy Resilience" text="Energy is a human right, and we must fight for a world in which nobody faces the threat of power shutoff, whether due to wildfire risk, their inability to pay, or where they live. This work, in partnership with East Bay Clean Power Alliance, is aimed at furthering energy democracy locally in the East Bay, while building the broader movement for utility justice at the state and national level." button-text-1="Learn More" button-url-1="/eastbayenergy" button-text-2="" button-url-2="" >}}
-
 {{< text-block title="Who We Are" text="We are the Bay Area hub of Sunrise Movement. Sunrise is a youth-led movement to stop climate change and create millions of good jobs in the process.​ We're building a movement of young people to make climate change an urgent priority across America, end the corrupting influence of fossil fuel executives on our politics, and elect leaders who stand up for the health and wellbeing of all people. We work to pass Green New Deal legislation at the local, state, and federal level that addresses climate change while ensuring that communities on the front lines of this crisis, including fossil fuel workers, are not left behind." button-text-1="Learn About The Movement" button-url-1="https://www.sunrisemovement.org/about" button-text-2="Learn About The Green New Deal" button-url-2="https://www.sunrisemovement.org/green-new-deal" >}}
 
 {{< fb-block title="California Just Transition and the Green New Deal" url="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBayAreaSunrise%2Fvideos%2F800272823709811%2F&show_text=0&width=476" >}}
